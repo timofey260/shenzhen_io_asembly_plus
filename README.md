@@ -5,6 +5,11 @@ Using: main.exe file
 ```
 functions:
 
+jmp a
+
+- jump to loop
+
+
 mov a b
 
 - create varable a with value b
