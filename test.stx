@@ -1,0 +1,6 @@
+    mov 1 x
+loop:
+    add x 1
+    prt x
+    slp 1
+    jmp loop
