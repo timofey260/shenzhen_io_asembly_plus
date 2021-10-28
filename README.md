@@ -12,28 +12,28 @@ mov a b
 
 add a b
 
-a = a + b
+- a = a + b
 
 
 sub a b
 
-a = a - b
+- a = a - b
 
 
 mul a b
 
-a = a * b
+- a = a * b
 
 
 not a
 
-if varable a = 0
+- if varable a = 0
 
-a = 100
+- a = 100
 
-else
+- else
 
-a = 0
+- a = 0
 
 
 prt a
@@ -48,56 +48,56 @@ inp a
 
 teq a b
 
-if a = b
+- if a = b
 
-next plus will be accepted
+- next plus will be accepted
 
-else
+- else
 
-next minus will be accepted
+- next minus will be accepted
 
 
 tgt a b
 
-if a > b
+- if a > b
 
-next plus will be accepted
+- next plus will be accepted
 
-else
+- else
 
-next minus will be accepted
+- next minus will be accepted
 
 
 tlt a b
 
-if a < b
+- if a < b
 
-next plus will be accepted
+- next plus will be accepted
 
-else
+- else
 
-next minus will be accepted
+- next minus will be accepted
 
 
 tpc a b
 
-if a > b
+- if a > b
 
-next plus will be accepted
+- next plus will be accepted
 
-else if a < b
+- else if a < b
 
-next minus will be accepted
+- next minus will be accepted
 
-else if a = b
+- else if a = b
 
-do nothing
+- do nothing
 
 
 dgt a b
 
-set a to digit b from varable a
+- set a to digit b from varable a
 
 
 dst a b c
-set digit b from varable a to c
+- set digit b from varable a to c
