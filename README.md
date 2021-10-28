@@ -92,3 +92,12 @@ next minus will be accepted
 else if a = b
 
 do nothing
+
+
+dgt a b
+
+set a to digit b from varable a
+
+
+dst a b c
+set digit b from varable a to c
