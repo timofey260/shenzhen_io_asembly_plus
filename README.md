@@ -7,7 +7,7 @@ functions:
 
 jmp a
 
-- jump to loop
+- jump to a
 
 
 mov a b
